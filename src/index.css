@@ -44,7 +44,7 @@ code {
   background-color: inherit;
   cursor: pointer;
 }
-.todo__list {
+.todo__list ul{
   background-color: #ffd9cc;
   padding:3%;
   margin:0% 15% 0% 15%;
